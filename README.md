@@ -17,7 +17,6 @@
 [![Forks](https://img.shields.io/github/forks/Curzyori/morsify?style=for-the-badge&color=blue)](https://github.com/Curzyori/morsify/network/members)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-black?style=for-the-badge)](#)
-[![Donate](https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-orange?style=for-the-badge)](https://raw.githubusercontent.com/Curzyori/morsify/main/config/donate.json)
 
 </div>
 
@@ -92,6 +91,20 @@ Output: `app/build/outputs/apk/debug/app-debug.apk`
 <p align="center">
   <img src="images/dash.jpg" alt="Morsify Dashboard" width="250"/>
 </p>
+
+---
+
+## ☕ Buy Me A Coffee
+
+If you find Morsify helpful, consider supporting its development! You can donate using various cryptocurrency addresses.
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Curzyori/morsify/main/config/donate.json">
+    <img src="https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-orange?style=for-the-badge" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+Crypto payment details (EVM and BTC addresses) are maintained dynamically inside our [donation configuration JSON](https://raw.githubusercontent.com/Curzyori/morsify/main/config/donate.json).
 
 ---
 
