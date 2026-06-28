@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mf_primary">#5645D4</color>
+    <color name="mf_primary_pressed">#4534B3</color>
+    <color name="mf_on_primary">#FFFFFF</color>
+    <color name="mf_canvas">#FFFFFF</color>
+    <color name="mf_surface">#F6F5F4</color>
+    <color name="mf_surface_dark">#181715</color>
+    <color name="mf_ink">#1A1A1A</color>
+    <color name="mf_charcoal">#37352F</color>
+    <color name="mf_slate">#5D5B54</color>
+    <color name="mf_steel">#787671</color>
+    <color name="mf_muted">#BBB8B1</color>
+    <color name="mf_hairline">#E5E3DF</color>
+    <color name="mf_hairline_strong">#C8C4BE</color>
+    <color name="mf_accent_amber">#E8A55A</color>
+    <color name="mf_success">#1AAE39</color>
+    <color name="mf_warning">#DD5B00</color>
+    <color name="mf_error">#E03131</color>
+    <color name="mf_tint_lavender">#E6E0F5</color>
+    <color name="mf_tint_mint">#D9F3E1</color>
+    <color name="mf_tint_yellow">#FEF7D6</color>
+    <color name="ic_launcher_background">#5645D4</color>
+</resources>

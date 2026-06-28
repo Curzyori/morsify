@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Morsify</string>
+    <string name="dashboard_subtitle">Morse code · flash &amp; sound</string>
+    <string name="dashboard_title">Morsify</string>
+
+    <string name="input_hint">Type a message… (e.g. SOS)</string>
+    <string name="input_label">Message</string>
+
+    <string name="morse_label">Morse translation</string>
+    <string name="morse_placeholder">— Morse text appears here —</string>
+
+    <string name="speed_label">Speed</string>
+    <string name="speed_slow">Slow</string>
+    <string name="speed_normal">Normal</string>
+    <string name="speed_fast">Fast</string>
+
+    <string name="output_label">Output</string>
+    <string name="output_flash">Flash</string>
+    <string name="output_sound">Beep</string>
+    <string name="output_both">Both</string>
+    <string name="output_auto">Auto Loop Signal</string>
+    <string name="output_auto_desc">Automatically re-transmits the morse signal upon completion.</string>
+
+    <string name="action_transmit">Transmit</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_clear">Clear</string>
+
+    <string name="state_transmitting">Transmitting…</string>
+
+    <string name="progress_format">%1$d / %2$d characters</string>
+
+    <string name="symbol_dot">.</string>
+    <string name="symbol_dash">-</string>
+    <string name="symbol_word_gap">word gap</string>
+    <string name="symbol_none">—</string>
+
+    <string name="perm_camera_title">Camera Permission</string>
+    <string name="perm_camera_desc">Morsify needs camera access to blink the flash. Beep still works without it.</string>
+    <string name="perm_camera_grant">Grant Camera</string>
+
+    <string name="lang_id">Bahasa Indonesia</string>
+    <string name="lang_en">English</string>
+    <string name="lang_toggle_cd">Toggle language</string>
+
+    <string name="settings_cd">Settings</string>
+    <string name="settings_support">Support Morsify</string>
+    <string name="settings_change_language">Change Language</string>
+    <string name="settings_github">GitHub Repo</string>
+    <string name="settings_website">Official Website</string>
+    <string name="settings_website_url">morsify.curzy.dev</string>
+    <string name="settings_donate_title">Support This Project</string>
+    <string name="settings_donate_desc">Help fund the development of this app</string>
+    <string name="settings_donate_btn">Open Donate Menu</string>
+    <string name="settings_donate_thanks">Thank you so much for your support!</string>
+    <string name="settings_evm_address">EVM (ETH / BNB / Polygon)</string>
+    <string name="settings_btc_address">BTC</string>
+    <string name="settings_address_copied">Address copied!</string>
+    <string name="action_dismiss">Close</string>
+
+    <string name="learn_title">Learn Morse Code</string>
+    <string name="learn_tree_title">Morse Code Flow Map (E-T Tree)</string>
+    <string name="learn_subtitle">Press the Transmit button to see the actual flash and sound transmission.</string>
+    <string name="learn_pattern">· = dit (short) · − = dat (long) · Auto pauses between characters</string>
+
+    <string name="hint_sos">Try: SOS</string>
+    <string name="hint_reference">ITU-R M.1677-1 standard</string>
+
+    <string name="cd_transmit">Transmit morse signal</string>
+    <string name="cd_stop">Stop transmission</string>
+    <string name="cd_open_link">Open link</string>
+    <string name="cd_copy_address">Copy address</string>
+    <string name="cd_copy_morse">Copy morse code</string>
+    <string name="morse_copied">Morse code copied!</string>
+    <string name="char_count">%1$d characters</string>
+</resources>

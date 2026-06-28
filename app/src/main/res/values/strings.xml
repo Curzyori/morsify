@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Morsify</string>
+    <string name="dashboard_subtitle">Kode morse · lampu &amp; suara</string>
+    <string name="dashboard_title">Morsify</string>
+
+    <string name="input_hint">Ketik pesan… (mis. SOS)</string>
+    <string name="input_label">Pesan</string>
+
+    <string name="morse_label">Terjemahan morse</string>
+    <string name="morse_placeholder">— Teks morse muncul di sini —</string>
+
+    <string name="speed_label">Kecepatan</string>
+    <string name="speed_slow">Lambat</string>
+    <string name="speed_normal">Normal</string>
+    <string name="speed_fast">Cepat</string>
+
+    <string name="output_label">Output</string>
+    <string name="output_flash">Lampu flash</string>
+    <string name="output_sound">Suara bip</string>
+    <string name="output_both">Keduanya</string>
+    <string name="output_auto">Ulangi Sinyal (Loop)</string>
+    <string name="output_auto_desc">Kirim ulang sinyal morse secara otomatis setelah selesai.</string>
+
+    <string name="action_transmit">Kirim Sinyal</string>
+    <string name="action_stop">Berhenti</string>
+    <string name="action_clear">Hapus</string>
+
+    <string name="state_transmitting">Mengirim…</string>
+
+    <string name="progress_format">%1$d / %2$d karakter</string>
+
+    <string name="symbol_dot">.</string>
+    <string name="symbol_dash">-</string>
+    <string name="symbol_word_gap">jarak kata</string>
+    <string name="symbol_none">—</string>
+
+    <string name="perm_camera_title">Izin Kamera</string>
+    <string name="perm_camera_desc">Morsify butuh akses kamera untuk mengedipkan lampu flash. Suara bip tetap bisa dipakai tanpa izin.</string>
+    <string name="perm_camera_grant">Izinkan Kamera</string>
+
+    <string name="lang_id">Bahasa Indonesia</string>
+    <string name="lang_en">English</string>
+    <string name="lang_toggle_cd">Ganti bahasa</string>
+
+    <string name="settings_cd">Pengaturan</string>
+    <string name="settings_support">Dukung Morsify</string>
+    <string name="settings_change_language">Ubah Bahasa</string>
+    <string name="settings_github">GitHub Repo</string>
+    <string name="settings_website">Website Resmi</string>
+    <string name="settings_website_url">morsify.curzy.dev</string>
+    <string name="settings_donate_title">Dukung Proyek</string>
+    <string name="settings_donate_desc">Bantu pengembangan proyek ini</string>
+    <string name="settings_donate_btn">Buka Menu Donasi</string>
+    <string name="settings_donate_thanks">Terima kasih banyak atas dukungan Anda!</string>
+    <string name="settings_evm_address">EVM (ETH / BNB / Polygon)</string>
+    <string name="settings_btc_address">BTC</string>
+    <string name="settings_address_copied">Alamat berhasil disalin!</string>
+    <string name="action_dismiss">Tutup</string>
+
+    <string name="learn_title">Belajar Kode Morse</string>
+    <string name="learn_tree_title">Peta Alur Hafalan Kode Morse (E-T Tree)</string>
+    <string name="learn_subtitle">Tekan tombol Kirim Sinyal untuk melihat transmisi aktual lampu dan suara.</string>
+    <string name="learn_pattern">· = dit (pendek) · − = dat (panjang) · Jeda otomatis antar karakter</string>
+
+    <string name="hint_sos">Coba: SOS</string>
+    <string name="hint_reference">Standar ITU-R M.1677-1</string>
+
+    <string name="cd_transmit">Kirim sinyal morse</string>
+    <string name="cd_stop">Hentikan transmisi</string>
+    <string name="cd_open_link">Buka tautan</string>
+    <string name="cd_copy_address">Salin alamat</string>
+    <string name="cd_copy_morse">Salin teks morse</string>
+    <string name="morse_copied">Terjemahan morse disalin!</string>
+    <string name="char_count">%1$d karakter</string>
+</resources>
