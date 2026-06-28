@@ -21,15 +21,15 @@
 </div>
 
 <p align="center">
-  <a href="#-why-morsify">Why This</a> ·
-  <a href="#-key-features">Features</a> ·
-  <a href="#-installation">Installation</a> ·
-  <a href="#-preview">Preview</a>
+  <a href="#why-morsify">Why This</a> ·
+  <a href="#key-features">Features</a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#preview">Preview</a>
 </p>
 
 ---
 
-## 🕒 Why Morsify?
+## <a id="why-morsify"></a>🕒 Why Morsify?
 
 Morsify is a clean, lightweight Morse code transmitter app for Android. It translates your text input into precise visual signals using the camera flash, auditory beeps, or both, making it perfect for educational purposes, amateur radio practices, or portable emergency signaling.
 
@@ -42,7 +42,7 @@ Morsify is a clean, lightweight Morse code transmitter app for Android. It trans
 
 ---
 
-## 🎯 Key Features
+## <a id="key-features"></a>🎯 Key Features
 
 | Feature | Status | Description |
 | :--- | :---: | :--- |
@@ -67,7 +67,7 @@ Morsify is a clean, lightweight Morse code transmitter app for Android. It trans
 
 ---
 
-## 📦 Installation
+## <a id="installation"></a>📦 Installation
 
 Download the latest APK from the [version folder](https://github.com/Curzyori/morsify/tree/main/version):
 
@@ -86,7 +86,7 @@ Output: `app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
-## 🖼️ Preview
+## <a id="preview"></a>🖼️ Preview
 
 <p align="center">
   <img src="images/dash.jpg" alt="Morsify Dashboard" width="250"/>
