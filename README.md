@@ -94,17 +94,15 @@ Output: `app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
-## ☕ Buy Me A Coffee
+## ☕ Support
 
-If you find Morsify helpful, consider supporting its development! You can donate using various cryptocurrency addresses.
+If Morsify is useful, consider supporting its development!
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Curzyori/morsify/main/config/donate.json">
-    <img src="https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-orange?style=for-the-badge" alt="Buy Me A Coffee"/>
-  </a>
+  <a href="https://donate.curzy.dev/"><strong>💝 Donate via Crypto or QRIS</strong></a>
 </p>
 
-Crypto payment details (EVM and BTC addresses) are maintained dynamically inside our [donation configuration JSON](https://raw.githubusercontent.com/Curzyori/morsify/main/config/donate.json).
+Crypto payment details are maintained at [donate.curzy.dev](https://donate.curzy.dev/).
 
 ---
 
